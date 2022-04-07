@@ -21,7 +21,7 @@ README Assignment 4 : Fun with Stacks
 
 4) Run it using:
 make all
-./a.out test.txt
+./assignment4.out test.txt
 
 I received help from Pablo, Chris and Rene
 https://stackoverflow.com/questions/20019512/double-free-or-corruption-fasttop
